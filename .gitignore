@@ -7,9 +7,17 @@
 *.opensdf
 *.rc
 *.sdf
+*.suo
 *.sln
 *.vcxproj*
-*UpgradeLog*
+*Upgrade*
+#windows files
+*Debug/*
+*Release/*
+
+#qt 
+moc_*
+
 # Precompiled Headers
 *.gch
 *.pch

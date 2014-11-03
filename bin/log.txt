@@ -1,0 +1,228 @@
+2014-08-23 Sat 16:59:13:
+connected success
+show tablename.
+table
+Field names of Table PROPS:
+SKEY            IKEY            DVAL            
+                                                   
+table
+Field names of Table ALM_GRP_STATE:
+NAME            SPNAME          STATE           ACKSTATE        UPDTIME         SEQNO           
+table
+Field names of Table ALM_GRP:
+NAME            STATE           ACKSTATE        UPDTIME         SEQNO           
+table
+Field names of Table CVAL_DB:
+NAME            UPDTIME         ALMTIME         NMEASURE        NALARM          NWARNING        STATE           ACKTIME         ACKFLAG         COMMENT         FAILTIME        SEQNO           
+walktime         1408784217566    0                1648             0                0                1                0                0                                 0                22957            
+engspeed         1408784217565    0                1208             0                0                1                0                0                                 0                22957            
+oiltemp          1408784217565    0                1648             0                332              1                0                0                                 0                22957            
+hytanktemp       1408784217565    0                1648             0                0                1                0                0                                 0                22957            
+cyltemp          1408784217565    0                1649             0                333              1                0                0                                 0                22957            
+dbltemp          1408784217565    0                1649             0                332              1                0                0                                 0                22957            
+oilpress         1408784217565    0                1648             0                0                1                0                0                                 0                22957            
+brakepress       1408784217565    0                1649             0                0                1                0                0                                 0                22957            
+dblpress         1408784217565    0                1649             0                0                1                0                0                                 0                22957            
+workpress        1408784217566    0                1648             0                0                1                0                0                                 0                22957            
+reoilpress       1408784217566    0                1648             0                0                1                0                0                                 0                22957            
+BatteryVol       1408781708721    0                0                0                0                0                0                0                                 0                0                
+fuellevel        1408784217565    0                1649             0                0                1                0                0                                 0                22957            
+charge           1408784217565    1408784217565    1649             813              0                3                1408781708529    1                                 0                22957            
+brake            1408784217565    1408784215538    1649             798              0                1                1408781708529    1                                 0                22957            
+dyncharge        1408784217565    1408784217565    1649             816              0                3                1408781708529    1                                 0                22957            
+uvcharge         1408784217566    1408784215539    1648             818              0                1                1408781708529    1                                 0                22957            
+glow             1408784217565    1408784217565    1649             781              0                3                1408781708529    1                                 0                22957            
+table
+Field names of Table TAGS_DB:
+NAME            TAGNAME         UPDTIME         VAL             MINVAL          MAXVAL          SUMVAL          SUM2VAL         NVAL            STATE           SEQNO           
+walktime         VALUE            1408784217566    95.9807          80.0037          119.99           120146           1.2112e+07       1208             1                22957            
+engspeed         VALUE            1408784217565    80.2405          80.0391          119.999          121002           1.22849e+07      1208             1                22957            
+oiltemp          VALUE            1408784217565    106.577          80.0305          119.949          121291           1.23398e+07      1208             1                22957            
+hytanktemp       VALUE            1408784217565    86.7373          80.0574          119.974          120086           1.20954e+07      1208             1                22957            
+cyltemp          VALUE            1408784217565    106.906          80.0342          119.951          120525           1.21862e+07      1208             1                22957            
+dbltemp          VALUE            1408784217565    97.0513          80.0464          119.996          121431           1.23687e+07      1208             1                22957            
+oilpress         VALUE            1408784217565    82.7418          80.0793          119.93           120565           1.2193e+07       1208             1                22957            
+brakepress       VALUE            1408784217565    116.245          80.0232          119.995          120568           1.21976e+07      1208             1                22957            
+dblpress         VALUE            1408784217565    92.1537          80.0024          119.957          120302           1.21351e+07      1208             1                22957            
+workpress        VALUE            1408784217566    113.838          80.0586          119.989          120813           1.22477e+07      1208             1                22957            
+reoilpress       VALUE            1408784217566    92.8336          80.0378          119.976          120814           1.22439e+07      1208             1                22957            
+BatteryVol       VALUE            1404440773635    104.21           80.7178          119.95           14231.3          1.44474e+06      142              0                0                
+fuellevel        VALUE            1408784217565    107.771          80.0098          119.971          120827           1.22436e+07      1208             1                22957            
+charge           VALUE            1408784217565    1                0                1                581              581              1208             3                22957            
+brake            VALUE            1408784217565    0                0                1                590              590              1208             1                22957            
+dyncharge        VALUE            1408784217565    1                0                1                614              614              1208             3                22957            
+uvcharge         VALUE            1408784217566    0                0                1                603              603              1208             1                22957            
+glow             VALUE            1408784217565    1                0                1                583              583              1208             3                22957            
+size:30
+size:30
+size:30
+size:30
+size:30
+size:30
+size:30
+size:30
+size:30
+size:30
+size:30
+size:30
+size:30
+size:30
+size:30
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+index:0
+size:30
+size:30
+size:30
+size:30
+size:30
+index:0,count:2
+index:1,count:2
+index:0,count:2
+index:1,count:2
+index:0,count:2
+index:1,count:2
+index:0,count:2
+index:1,count:2
+index:0,count:2
+index:1,count:2
+index:0,count:2
+index:1,count:2
+index:0,count:2
+index:1,count:2
+index:0,count:2
+index:1,count:2
