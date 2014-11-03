@@ -1,5 +1,17 @@
 
-
+/****************************************
+**	File Name:		basepage.h
+**  Description:
+**	
+**  Author:		teddy.tu(tudongdong1989@gmail.com)
+**	Date:		2014/10/1
+**	Remark:		teddy.tu
+**  Date:		2014/10/1
+**	Version:	1.0.0
+**
+**  Copyright(C) teddy.tu
+**  All rights reserved.
+****************************************/ 
 #ifndef BASEWIDGET_H
 #define BASEWIDGET_H
 
