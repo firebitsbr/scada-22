@@ -3,7 +3,13 @@
 *.lo
 *.o
 *.obj
-
+*.aps
+*.opensdf
+*.rc
+*.sdf
+*.sln
+*.vcxproj*
+*UpgradeLog*
 # Precompiled Headers
 *.gch
 *.pch
